@@ -25,9 +25,5 @@
   <a href="https://github.com/IagoCappeletti">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IagoCappeletti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoCappeletti&layout=compact&langs_count=7&theme=dark"/>
-    
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/IagoCappeletti/IagoCappeletti/output/github-contribution-grid-snake.svg)
-
+   
 </div>
-  
- ![github contribution grid snake animation](https://raw.githubusercontent.com/IagoCappeletti/IagoCappeletti/output/github-contribution-grid-snake.svg)
