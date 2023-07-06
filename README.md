@@ -1,4 +1,11 @@
-<h1 align="center">Eaii gurizada, me chamo Iago Cappeletti</h1>
+<h1 align="center">Eai gurizada, me chamo Iago Cappeletti</h1>
+ 
+</p>
+<p align="center">
+  <a href="https://github.com/IagoCappeletti/IagoCappeletti/blob/main/README.md">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20back-end&center=true&width=440&height=45&vCenter=true&pause=1000&size=22" style="filter: invert(100%);" /></a>
+</p>
+
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IagoCappeletti&label=Profile%20views&color=0e75b6&style=flat" alt="IagoCappeletti" /></p> 
@@ -24,7 +31,6 @@
 
 <div align="center">
   <a href="https://github.com/IagoCappeletti">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IagoCappeletti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoCappeletti&layout=compact&langs_count=7&theme=dark"/>
-   
+  <img height="192px" src="https://github-readme-stats.vercel.app/api?username=IagoCappeletti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoCappeletti&layout=compact&langs_count=7&theme=dark"/>  
 </div>
