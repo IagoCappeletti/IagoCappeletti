@@ -1,7 +1,7 @@
 <h1 align="center">Eai gurizada, me chamo Iago Cappeletti</h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IagoCappeletti&label=Profile%20views&color=0e75b6&style=flat" alt="IagoCappeletti" />
+  <img src="https://komarev.com/ghpvc/?username=IagoCappeletti&label=Profile%20views&color=0e75b6&style=flat" alt="IagoCappeletti"/>
 </p> 
 
 <p align="center">
