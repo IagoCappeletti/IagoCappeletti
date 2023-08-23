@@ -22,7 +22,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/iago-kilppe-cappeletti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IagoCappeletti-b89a791b3" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/i.cappeletti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="IagoCappeletti" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/iago_cappeletti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="IagoCappeletti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e programas:</h3>
