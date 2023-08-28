@@ -1,7 +1,7 @@
 <h1>
   <a href="https://github.com/IagoCappeletti/IagoCappeletti/blob/main/README.md">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=1BB8E8&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=1BB8E8&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Iago+Cappeletti;Currently%2C+i+am+a+student+in+software+development."/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=1BB8E8&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Iago+Cappeletti;Welcome+to+my+Github"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=1BB8E8&center=true&vCenter=true&width=1000&lines=Currently%2C+i+am+a+student+in+software+development."/>
   </a>
 </h1>
 
