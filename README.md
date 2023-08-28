@@ -1,17 +1,13 @@
-<h1 align="center">Eai gurizada, me chamo Iago Cappeletti</h1>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IagoCappeletti&label=Profile%20views&color=0e75b6&style=flat" alt="IagoCappeletti" />
-</p> 
-
-<p align="center">
+<h1>
+  <p align="center">
   <a href="https://github.com/IagoCappeletti/IagoCappeletti/blob/main/README.md">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20back-end&center=true&width=440&height=45&vCenter=true&pause=1000&size=22" style="filter: invert(100%);" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=1BB8E8&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=1BB8E8&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Iago+Cappeletti;Currently%2C+i+am+a+student+in+software+development."/>
   </a>
 </p>
+</h1>
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966"  />
-
+<img align="right" height="180" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966"  />
 
 - 💻 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas 
 
@@ -19,11 +15,13 @@
 
 - 🌱 Atualmente estou aprendendo **Java** e **Spring Boot**
 
+ 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/iago-kilppe-cappeletti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IagoCappeletti-b89a791b3" height="30" width="40" /></a>
   <a href="https://www.instagram.com/iago_cappeletti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="IagoCappeletti" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Linguagens e programas:</h3>
 <p align="center">
