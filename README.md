@@ -13,7 +13,7 @@
 
 - 🔭 Atualmente estou buscando meu primeiro emprego na area 
 
-- 🌱 Atualmente estou aprendendo **Java** com **Spring Boot** e **C#** com **.dotnet**
+- 🌱 Atualmente estou aprendendo **Java** com **Spring Boot** e **C#** com **.NET**
 
  
 <h3 align="left">Conecte-se comigo:</h3>
